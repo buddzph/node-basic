@@ -1,0 +1,18 @@
+{
+  "name": "node_sample_run",
+  "version": "1.0.0",
+  "description": "Sample runs for nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Shari",
+  "license": "ISC",
+  "dependencies": {
+    "promise": "^8.0.1"
+  }
+}
